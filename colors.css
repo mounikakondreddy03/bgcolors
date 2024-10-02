@@ -1,0 +1,93 @@
+
+.title{
+    text-decoration: 2px underline;
+    color: white;
+    font-style:italic;
+  }
+.one{
+    width: 100%;
+    height:350px;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.mtDVMwSmRhqfF5zZ8ZLITAAAAA&pid=Api&P=0&h=600");
+    background-repeat:repeat;
+}
+.ab{
+    text-align: right;
+    text-transform: capitalize;
+    text-shadow: 2px 3px 5px white;
+    color: black;
+    font-size: 30px;
+}
+.cd{
+    text-align: center;
+    text-transform: lowercase;
+    text-shadow:3px 3px 4px white ;
+    color: black;
+    font-size: 25px;
+}
+.ij {
+    text-align: left;
+    text-transform: uppercase;
+    text-shadow:3px 3px 4px white ;
+    color: black;
+    font-size: 25px;
+}
+.two{
+    background-color: brown;
+    color: beige;
+    text-decoration:none;
+}
+.three{
+    background-image: linear-gradient(to bottom right, pink, lightskyblue,gold);
+    padding-top:15px;
+    padding-bottom: 15px;
+}
+img{
+    flex: 1;
+    width:250px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+.four{
+    background-color: white;
+    width:300px;
+    outline: 2px solid black;
+    box-shadow: 2px 3px 4px black;
+    margin-top: 20px;
+    p{
+        text-align: center;
+    }
+}
+.ef{
+    flex: 1;
+    display: block;
+    width:250px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    }
+.five{
+    background-color: white;
+    width:300px;
+    outline: 2px solid black;
+    box-shadow: 2px 3px 4px black;
+    margin-top: 20px;
+    p{
+        text-align: center;
+    }
+}
+.gh{
+    flex: 1;
+    display: block;
+    width:250px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    }
+.six{
+    background-color: white;
+    width:300px;
+    outline: 2px solid black;
+    box-shadow: 2px 3px 4px black;
+    margin-top: 20px;
+    p{
+        text-align: center;
+    }    
+}
